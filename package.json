@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Aula para demonstração de CI/CD e PIPELINE com Playwright",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "playwright test"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sergiocotiazure20265-ops/aula-playwright.git"
